@@ -1,0 +1,27 @@
+The store dataset has the following 5 attributes and their data description is as given below:
+ 
+
+Attributes	Description
+Order-Date	The date on which the order was placed
+Segment	The segment to which the product belongs
+Market	The market to which the customer belongs
+Sales	Total sales value of the transaction
+Profit	Profit made on the transaction
+ 
+
+If you check the entries in the dataset, you will see that the store caters to 7 different geographical 
+market segments and 3 major customer segments, i.e. consumer, corporate and home as can be seen in the table below:
+
+Market:
+Africa	
+APAC (Asia Pacific)
+Canada	Home Office
+EMEA(Middle East)	 
+EU (European Union)	 
+LATAM (Latin America)	 
+US (United States)	 
+
+Segment:
+Corporate
+Consumer
+Home Office
