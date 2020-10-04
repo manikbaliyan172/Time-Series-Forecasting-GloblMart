@@ -1,1 +1,7 @@
-# Time-Series-Forecasting-GloblMart
+Global Mart is an online supergiant store that has worldwide operations. This store takes orders and delivers across the globe and deals with all the major product categories — consumer, corporate & home office.
+
+In order to assist the Sales Manager for this store, I did the Time Series Forecast for the sales of the products for the next 6 months, so that he has a proper estimate and can plan Inventory and Business Processes accordingly.
+
+Out of the 21 market segments, I focused on one market-segment which is the most consistently profitable. To find the most consistently profitable market-segment, I used a measure called "Coefficient of Variation (CoV)". The coefficient of variation or CoV is nothing but the ratio of the standard deviation to mean for the data that it is being calculated for. Actually, standard deviations are meaningless to compare different datasets as for these 21 market-segments as well. As a better metric to compare the variance between the segments I used the coefficient of variation which normalised the standard deviation with the mean and gave a comparative figure on the basis of which one can identify the most profitable market segment.
+
+After underpinning the desired segment, I used a diverse variety of Methods to forecast the sales for the next six months. I used Root Mean Squared error and Mean Absolute Percentage error as the two metrics to evaluate and comapre between methods from same and different families.
